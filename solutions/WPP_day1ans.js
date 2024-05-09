@@ -5,7 +5,7 @@ currentTimeSecond =new Date().getSeconds();
 daynumber = new Date().getDay();
 
 
-
+//day array
 var day=["Sunday", "monday","Tuesday", "Wednesay","thrusday","friday","saturday"]
    
 console.log("Today is:",[day[daynumber]]);
