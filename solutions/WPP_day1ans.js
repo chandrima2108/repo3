@@ -20,4 +20,4 @@ if(currentTimehour===0 )
             postfix="AM";
         }
     
-console.log("current time is", currentTimehour,":",currentTimeMinute,":",currentTimeSecond, postfix);
+console.log("current time is", currentTimehour,":",currentTimeMinute,":",currentTimeSecond, postfix);//answer
